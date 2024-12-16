@@ -1,28 +1,17 @@
 /*  your css code here. If applicable */
-h1{
-	text-align : center;
+body{
+	background-color: rgb(204, 204, 204)
 }
-ul li{
-	list-style-type : none;
+.player_one, .player_two{
+	background-color: rgb(255, 255, 255); 
+	padding; border-radius
 }
-h2{
-	text-align : center
+li{
+	list-style-type: none
 }
-.playlist{
-	border : 2px solid black;
-	border-radius : 10px;
-	max-width : 600px;
-	padding : 15px;
-	margin : 20px auto;
-	 background-color: rgb(255, 255, 255);
-	
+a{
+	text-decoration-line: none
 }
-h5{
-	text-align : left
-}
-.player_two, audio{
-    width : 500px;
-}
-.player_one, video{
-	width : 500px;
+h1,h2{
+	text-align: center
 }
